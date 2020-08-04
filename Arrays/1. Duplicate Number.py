@@ -1,4 +1,4 @@
-# problem link: https://leetcode.com/problems/find-the-duplicate-number/solution/
+# Problem Link: https://leetcode.com/problems/find-the-duplicate-number/solution/
 # Optimal Solution -> Floyd's Tortoise and Hare algorithm
 
 # Naive approach
