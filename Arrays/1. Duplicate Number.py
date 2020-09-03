@@ -18,7 +18,8 @@ print(res)
 
 a = [1,3,4,2,2]
 freq = {}
-
+for i in range(1, len(a)+1):
+	freq[i] = 0
 for ele in a:
 	if ele in freq:
 		freq[ele] += 1
